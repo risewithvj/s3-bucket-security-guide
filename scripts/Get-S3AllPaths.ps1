@@ -6,7 +6,7 @@ This script lists all objects in a public S3 bucket, handling pagination for buc
 #>
 
 # Configuration
-$bucketName = "vsplbucket1"
+$bucketName = "yourbucketname"
 $region = "ap-south-1"
 $outputFile = "S3_All_Paths.txt"
 $baseUrl = "https://$bucketName.s3.$region.amazonaws.com/"

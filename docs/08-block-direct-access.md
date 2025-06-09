@@ -23,4 +23,4 @@ Use the following bucket policy to deny all `s3:GetObject` requests except those
   ]
 }
 
-// Change the "bucketname"and your domain url
+// Change the marked "bucketname" and your domain url
