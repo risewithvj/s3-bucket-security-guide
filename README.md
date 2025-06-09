@@ -176,3 +176,6 @@ This guide is intended only for educational and ethical usage. Do not misuse thi
 ## 📂 Contributing
 
 Feel free to raise a pull request or report any outdated info.
+
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=risewithvj.risewithvj&color=purple&label=Profile+Views&style=for-the-badge)
