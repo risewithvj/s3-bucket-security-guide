@@ -178,4 +178,5 @@ This guide is intended only for educational and ethical usage. Do not misuse thi
 Feel free to raise a pull request or report any outdated info.
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=risewithvj.risewithvj&color=purple&label=Profile+Views&style=for-the-badge)
+# S3 Bucket Security Guide  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=risewithvj.s3-bucket-security-guide&color=purple&label=Visitors&style=for-the-badge)
